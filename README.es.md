@@ -1,4 +1,4 @@
-# HTML Hello
+# HTML Hello desde la clase de GIT
 
 El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
 
